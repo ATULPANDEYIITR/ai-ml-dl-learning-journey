@@ -46,7 +46,7 @@ Case Studies
 
 Practical Projects
 
-# Day 01: Introduction to AI Fundamentals
+# Day 00: Introduction to AI Fundamentals
 
 ## Objective
 
@@ -82,9 +82,3 @@ Understanding the fundamental concepts provides the foundation required before p
 ## Learning Approach
 
 AI Fundamentals will be covered gradually, starting with basic concepts and progressing toward Machine Learning, Deep Learning, and other advanced areas of Artificial Intelligence.
-
-## Day 01 Completed
-
-**Focus:** Introduction to Artificial Intelligence
-
-**Next:** Continue with the next fundamental concepts of AI.
